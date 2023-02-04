@@ -19,11 +19,21 @@ Today's Progress: A To-do list app with Javascript.
 
 Thoughts: I really struggled with query selection and event listener
 
-Link to work: <a href="https://codepen.io/Shigo-phobia/pen/jOpQwao">Countdown TImer</a>
+Link to work: <a href="https://codepen.io/Shigo-phobia/pen/jOpQwao">TO do List</a>
 
 **Day 4: Febuary 2, 2023**
 Today's Progress: Animated Button With CSS.
 
 Thoughts: I learn about using CSS to create animation
 
-Link to work: <a href="https://codepen.io/Shigo-phobia/pen/GRBPOGQ">Countdown TImer</a>
+Link to work: <a href="https://codepen.io/Shigo-phobia/pen/GRBPOGQ">Animated Button</a>
+
+**Day 5: Febuary 3, 2023**
+Today's Progress: Animated Button With CSS.
+
+I learn CSS from Freecodecamp and w3schools
+
+**Day 6: Febuary 4, 2023**
+Today's Progress: Neon Button With CSS.
+
+i learn how to create a neon button with CSS
