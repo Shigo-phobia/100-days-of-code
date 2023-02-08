@@ -37,3 +37,7 @@ I learn CSS from Freecodecamp and w3schools
 Today's Progress: Neon Button With CSS.
 
 i learn how to create a neon button with CSS
+
+**Day 7: Febuary 7, 2023**
+Today's Progress:
+I learn how to create a hover sidebar
